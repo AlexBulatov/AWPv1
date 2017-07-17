@@ -1,0 +1,48 @@
+c:\my documents\visual studio 2015\Projects\ARM\ARM\bin\Debug\ARM.exe.config
+c:\my documents\visual studio 2015\Projects\ARM\ARM\bin\Debug\ARM.exe
+c:\my documents\visual studio 2015\Projects\ARM\ARM\bin\Debug\ARM.pdb
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Debug\ARM.csprojResolveAssemblyReference.cache
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Debug\ARM.MainWindow.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Debug\ARM.Properties.Resources.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Debug\ARM.csproj.GenerateResource.Cache
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Debug\ARM.exe
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Debug\ARM.pdb
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Debug\ARM.csproj.ResolveComReference.cache
+C:\My Documents\Visual Studio 2015\Projects\ARM\ARM\bin\Debug\Npgsql.dll
+C:\My Documents\Visual Studio 2015\Projects\ARM\ARM\bin\Debug\Npgsql.xml
+C:\My Documents\Visual Studio 2015\Projects\ARM\ARM\obj\Debug\ARM.DiaryAll.resources
+C:\My Documents\Visual Studio 2015\Projects\ARM\ARM\obj\Debug\ARM.ShowRecord.resources
+C:\My Documents\Visual Studio 2015\Projects\ARM\ARM\obj\Debug\ARM.NewRecordForm.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Debug\ARM.NewCardForm.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Debug\ARM.NewVisit.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Debug\ARM.ShowCard.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Debug\ARM.PrintForm.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Debug\ARM.FilterForm.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Debug\ARM.Password.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Debug\ARM.RedactRecordForm.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Debug\ARM.RedactCardForm.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Debug\ARM.RedactVisit.resources
+C:\Users\bulka\Desktop\ARM\ARM\ARM\bin\Debug\ARM.exe.config
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.csproj.ResolveComReference.cache
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.exe
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.pdb
+C:\Users\bulka\Desktop\ARM\ARM\ARM\bin\Debug\ARM.exe
+C:\Users\bulka\Desktop\ARM\ARM\ARM\bin\Debug\ARM.pdb
+C:\Users\bulka\Desktop\ARM\ARM\ARM\bin\Debug\Npgsql.dll
+C:\Users\bulka\Desktop\ARM\ARM\ARM\bin\Debug\Npgsql.xml
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.csprojResolveAssemblyReference.cache
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.DiaryAll.resources
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.FilterForm.resources
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.MainWindow.resources
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.NewCardForm.resources
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.NewRecordForm.resources
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.NewVisit.resources
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.Password.resources
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.PrintForm.resources
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.Properties.Resources.resources
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.RedactCardForm.resources
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.RedactRecordForm.resources
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.RedactVisit.resources
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.ShowCard.resources
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.ShowRecord.resources
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Debug\ARM.csproj.GenerateResource.Cache

@@ -1,0 +1,28 @@
+c:\my documents\visual studio 2015\Projects\ARM\ARM\bin\Release\ARM.exe.config
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.csproj.ResolveComReference.cache
+c:\my documents\visual studio 2015\Projects\ARM\ARM\bin\Release\ARM.exe
+c:\my documents\visual studio 2015\Projects\ARM\ARM\bin\Release\ARM.pdb
+c:\my documents\visual studio 2015\Projects\ARM\ARM\bin\Release\Npgsql.dll
+c:\my documents\visual studio 2015\Projects\ARM\ARM\bin\Release\Npgsql.xml
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.DiaryAll.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.FilterForm.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.MainWindow.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.NewCardForm.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.NewRecordForm.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.NewVisit.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.PrintForm.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.Properties.Resources.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.ShowCard.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.ShowRecord.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.csproj.GenerateResource.Cache
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.exe
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.pdb
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.Password.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.RedactCardForm.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.RedactRecordForm.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.RedactVisit.resources
+c:\my documents\visual studio 2015\Projects\ARM\ARM\obj\Release\ARM.csprojResolveAssemblyReference.cache
+C:\Users\bulka\Desktop\ARM\ARM\ARM\bin\Release\ARM.exe.config
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Release\ARM.csproj.ResolveComReference.cache
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Release\ARM.exe
+C:\Users\bulka\Desktop\ARM\ARM\ARM\obj\Release\ARM.pdb
